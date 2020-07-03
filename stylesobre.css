@@ -1,0 +1,88 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+
+body {
+font-family: 'Roboto' , sans-serif;
+background-color: rgba(255, 0, 0, 0.425);
+
+
+}
+
+header #corpo-topo {
+
+background: #6c4fbb;
+    text-align: center;
+
+}
+
+header div img {
+height: 150px;
+}
+
+
+#corpo {
+
+display: inline-flex;
+
+}
+
+#texto {
+padding: 15px;
+border: 0 auto;
+max-width: 600px;
+
+}
+
+
+
+h1 {
+color: black;
+padding: 15px;
+line-height: 30px;
+max-width: 500px;
+
+
+}
+
+
+header div #logo {
+    height: 1500px;
+}
+
+header div #link {
+    text-decoration: none;
+    color: white;
+    background-color: #6b4eba;
+    font-family: 'Roboto' , sans-serif;
+    
+    padding: 5px;
+    
+    
+}
+
+header div #link:hover {
+    transition: all  150ms linear 0ms;
+    
+}
+
+#img {
+    width: 500px;
+    height: 500px;
+    
+    
+}
+
+
+    
+   
+    
+
+
